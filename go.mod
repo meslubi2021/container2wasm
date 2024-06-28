@@ -6,10 +6,10 @@ require (
 	github.com/containerd/containerd v1.7.11
 	github.com/containers/gvisor-tap-vsock v0.7.1
 	github.com/opencontainers/image-spec v1.1.0-rc5
-	github.com/opencontainers/runc v1.1.10
+	github.com/opencontainers/runc v1.1.12
 	github.com/opencontainers/runtime-spec v1.1.0
 	github.com/urfave/cli v1.22.14
-	golang.org/x/net v0.19.0
+	golang.org/x/net v0.23.0
 	gotest.tools/v3 v3.5.1
 )
 
@@ -40,15 +40,15 @@ require (
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/u-root/uio v0.0.0-20210528114334-82958018845c // indirect
 	go.opencensus.io v0.24.0 // indirect
-	golang.org/x/crypto v0.16.0 // indirect
+	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
 	golang.org/x/tools v0.13.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230711160842-782d3b101e98 // indirect
 	google.golang.org/grpc v1.58.3 // indirect
-	google.golang.org/protobuf v1.31.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gvisor.dev/gvisor v0.0.0-20230715022000-fd277b20b8db // indirect
 	inet.af/tcpproxy v0.0.0-20220326234310-be3ee21c9fa0 // indirect
 )

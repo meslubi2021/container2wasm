@@ -16,10 +16,10 @@ require (
 	github.com/miekg/dns v1.1.56 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/u-root/uio v0.0.0-20210528114334-82958018845c // indirect
-	golang.org/x/crypto v0.13.0 // indirect
+	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/mod v0.12.0 // indirect
-	golang.org/x/net v0.15.0 // indirect
-	golang.org/x/sys v0.12.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
 	golang.org/x/tools v0.13.0 // indirect
 	gvisor.dev/gvisor v0.0.0-20230715022000-fd277b20b8db // indirect
